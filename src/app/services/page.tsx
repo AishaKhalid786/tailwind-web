@@ -1,8 +1,5 @@
 import Link from 'next/link'
 import React from 'react'
-import HeaderPage from '../components/header/page'
-import HeroSection from '../hero/page'
-import FooterPage from '../footer/page'
 
 const ServicePage = () => {
   return (

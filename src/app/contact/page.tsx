@@ -17,6 +17,7 @@ const ContactPage = () => {
        <li><Link href="/services">Go to Services Page</Link></li>
 
      </ul>
+     <HeroSection/>
      <FooterPage></FooterPage>
     </div>
   )

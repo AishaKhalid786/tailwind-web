@@ -15,6 +15,7 @@ const AboutPage = () => {
         <li><Link href="/contact">Go to Contact Page</Link></li>
         <li><Link href="/services">Go to Services Page</Link></li>
         </ul>
+        <HeroSection/>
         <FooterPage></FooterPage>
     </div>
   )
