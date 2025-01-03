@@ -9,7 +9,7 @@ const ContactPage = () => {
     <div>
       <HeaderPage></HeaderPage>
       <h1>This is our Contact page.</h1>
-      <p>You can contact us ny our email id's and social media accouts.</p>
+      <p>You can contact us by our email id and social media accouts.</p>
 
       <ul>
        <li><Link href="/">Go to Home Page</Link></li>
